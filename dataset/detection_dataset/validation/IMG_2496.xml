@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bad_orange1</folder>
+	<filename>IMG_2496.JPG</filename>
+	<path>D:\TensorFlow FYP\Fruit-Spoilage-Detection-Dataset\dataset\complete\bad_orange\bad_orange1\IMG_2496.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>31</ymin>
+			<xmax>232</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>good_apple3</folder>
+	<filename>translation_Screen Shot 2018-06-08 at 5.21.31 PM.png</filename>
+	<path>D:\TensorFlow FYP\Fruit-Spoilage-Detection-Dataset\dataset\complete\good_apple\good_apple3\translation_Screen Shot 2018-06-08 at 5.21.31 PM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fresh</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>88</ymin>
+			<xmax>340</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

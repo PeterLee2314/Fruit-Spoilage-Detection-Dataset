@@ -1,0 +1,38 @@
+<annotation>
+	<folder />
+	<filename>V006_80_0_00_02_01_25_0_c35_20201026_0097_S01_jpg.rf.81e530d4eeba6b5d9bf29bd02a4022dd.jpg</filename>
+	<path>V006_80_0_00_02_01_25_0_c35_20201026_0097_S01_jpg.rf.81e530d4eeba6b5d9bf29bd02a4022dd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fresh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<xmax>553</xmax>
+			<ymin>105</ymin>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fresh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>330</xmax>
+			<ymin>1</ymin>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

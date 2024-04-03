@@ -1,0 +1,26 @@
+<annotation>
+	<folder>good_orange1</folder>
+	<filename>IMG_20190924_153541.jpg</filename>
+	<path>D:\TensorFlow FYP\Fruit-Spoilage-Detection-Dataset\dataset\complete\good_orange\good_orange1\IMG_20190924_153541.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fresh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>56</ymin>
+			<xmax>193</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder />
+	<filename>saltandpepper_Screen-Shot-2018-06-12-at-11-26-28-PM_png.rf.8f3a9af0a668a106584c307b34ff11c1.jpg</filename>
+	<path>saltandpepper_Screen-Shot-2018-06-12-at-11-26-28-PM_png.rf.8f3a9af0a668a106584c307b34ff11c1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<xmax>375</xmax>
+			<ymin>29</ymin>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

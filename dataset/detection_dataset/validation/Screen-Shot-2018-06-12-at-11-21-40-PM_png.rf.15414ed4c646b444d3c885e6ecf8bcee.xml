@@ -1,0 +1,26 @@
+<annotation>
+	<folder />
+	<filename>Screen-Shot-2018-06-12-at-11-21-40-PM_png.rf.15414ed4c646b444d3c885e6ecf8bcee.jpg</filename>
+	<path>Screen-Shot-2018-06-12-at-11-21-40-PM_png.rf.15414ed4c646b444d3c885e6ecf8bcee.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<xmax>356</xmax>
+			<ymin>36</ymin>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

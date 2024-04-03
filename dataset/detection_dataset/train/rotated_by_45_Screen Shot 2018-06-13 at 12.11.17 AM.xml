@@ -1,0 +1,26 @@
+<annotation>
+	<folder>good_orange3</folder>
+	<filename>rotated_by_45_Screen Shot 2018-06-13 at 12.11.17 AM.png</filename>
+	<path>D:\TensorFlow FYP\Fruit-Spoilage-Detection-Dataset\dataset\complete\good_orange\good_orange3\rotated_by_45_Screen Shot 2018-06-13 at 12.11.17 AM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>290</width>
+		<height>286</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fresh</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>5</ymin>
+			<xmax>287</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

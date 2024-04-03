@@ -1,0 +1,26 @@
+<annotation>
+	<folder>good_banana2</folder>
+	<filename>freshBanana (17).jpg</filename>
+	<path>D:\TensorFlow FYP\Fruit-Spoilage-Detection-Dataset\dataset\complete\good_banana\good_banana2\freshBanana (17).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fresh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>34</ymin>
+			<xmax>607</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

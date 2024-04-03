@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bad_apple1</folder>
+	<filename>IMG_20190910_171921.jpg</filename>
+	<path>D:\TensorFlow FYP\Fruit-Spoilage-Detection-Dataset\dataset\complete\bad_apple\bad_apple1\IMG_20190910_171921.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>44</ymin>
+			<xmax>235</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

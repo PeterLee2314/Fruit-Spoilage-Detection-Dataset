@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bad_apple3</folder>
+	<filename>rotated_by_30_Screen Shot 2018-06-07 at 2.44.59 PM.png</filename>
+	<path>D:\TensorFlow FYP\Fruit-Spoilage-Detection-Dataset\dataset\complete\bad_apple\bad_apple3\rotated_by_30_Screen Shot 2018-06-07 at 2.44.59 PM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>54</ymin>
+			<xmax>356</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

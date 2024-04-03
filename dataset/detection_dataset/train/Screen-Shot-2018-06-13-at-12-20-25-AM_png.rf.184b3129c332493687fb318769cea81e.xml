@@ -1,0 +1,26 @@
+<annotation>
+	<folder />
+	<filename>Screen-Shot-2018-06-13-at-12-20-25-AM_png.rf.184b3129c332493687fb318769cea81e.jpg</filename>
+	<path>Screen-Shot-2018-06-13-at-12-20-25-AM_png.rf.184b3129c332493687fb318769cea81e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fresh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<xmax>387</xmax>
+			<ymin>41</ymin>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

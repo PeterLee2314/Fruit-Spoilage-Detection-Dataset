@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bad_banana2</folder>
+	<filename>rottenBanana (254).jpg</filename>
+	<path>D:\TensorFlow FYP\Fruit-Spoilage-Detection-Dataset\dataset\complete\bad_banana\bad_banana2\rottenBanana (254).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>193</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>3</ymin>
+			<xmax>226</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

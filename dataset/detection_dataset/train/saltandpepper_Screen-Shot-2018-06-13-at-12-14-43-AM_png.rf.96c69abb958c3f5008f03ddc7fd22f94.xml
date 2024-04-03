@@ -1,0 +1,26 @@
+<annotation>
+	<folder />
+	<filename>saltandpepper_Screen-Shot-2018-06-13-at-12-14-43-AM_png.rf.96c69abb958c3f5008f03ddc7fd22f94.jpg</filename>
+	<path>saltandpepper_Screen-Shot-2018-06-13-at-12-14-43-AM_png.rf.96c69abb958c3f5008f03ddc7fd22f94.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fresh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<xmax>405</xmax>
+			<ymin>9</ymin>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>
